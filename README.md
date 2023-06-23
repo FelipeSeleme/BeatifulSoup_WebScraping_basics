@@ -12,5 +12,5 @@ Como exemplo, usaremos o site [CoinMarketCap](https://coinmarketcap.com/), que c
 Ao fim do projeto, teremos extraído as informações das criptomoedas e formatado em um dicionário JSON.
 
 ## Índice
-- [basics.ipynb](#basics.ipynb) - Introdução ao BeautifulSoup
-- [coinmarketWS.ipynb](#coinmarketWS.ipynb) - Web Scraping do site CoinMarketCap
+- [basics.ipynb](basics.ipynb) - Introdução ao BeautifulSoup
+- [coinmarketWS.ipynb](coinmarketWS.ipynb) - Web Scraping do site CoinMarketCap
